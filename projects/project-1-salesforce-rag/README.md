@@ -4,7 +4,7 @@ A retrieval-augmented generation system built from scratch over official Salesfo
 Well-Architected Framework documentation. No LangChain abstraction on the deployed 
 pipeline — every step is explicit, observable, and evaluated.
 
-🔗 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/DevThaDev/salesforce-well-architected-rag)**
+🔗 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/DevonWright/salesforce-well-architected-rag)**
 
 ---
 
