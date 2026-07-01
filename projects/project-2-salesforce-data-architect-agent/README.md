@@ -5,7 +5,7 @@ produces a structured Salesforce data model — validating every object name
 and field type against real Salesforce rules, self-correcting when 
 validation fails.
 
-🔗 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/DevThaDev/salesforce-data-architect-agent)**
+🔗 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/DevonWright/salesforce-data-architect-agent)**
 
 ---
 
