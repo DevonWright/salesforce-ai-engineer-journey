@@ -1,8 +1,7 @@
 # Salesforce AI Engineer Journey
 
 Documenting my progression into AI — leveraging 6 years of 
-Salesforce architecture experience as a technical moat rather than 
-background to leave behind.
+Salesforce architecture experience as a technical moat.
 
 
 ## Projects
